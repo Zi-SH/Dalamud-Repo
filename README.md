@@ -1,11 +1,19 @@
-# MyCustomDalamudPluginRepoCollection
-A collection of multiple dalamud repos, merged into a single file for easier distribution to friends.
-The list will check every 30 min for updates (and pushes automaticly to github if any important update is found).
+# Dalamud Repository
 
-If you know of a repo that is missing in my list, feel free to create a PR/issue so i can add it to the list.
+**Please note that plugins contained in this repository are not reviewed for safety, nor do I personally condone their use. Install at your own risk.**
 
-Checkout [repo_urls.json](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection/blob/main/repo_urls.json) for a list of repos.
+
+A collection of third-party Dalamud Repositories, merged into a single file for easy browsing.
+
+The list will check every 30 minutes for updates, and automatically push any updates found.
+
+Special thanks to Akurosia, who originally pioneered this [idea](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection).
 
 ## Installation
 
-Just import the [ffxiv_custom_repo.json](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection/blob/main/ffxiv_custom_repo.json) by pasting the following link into the dalamud > settings: `https://raw.githubusercontent.com/Akurosia/MyCustomDalamudPluginRepoCollection/main/ffxiv_custom_repo.json`
+Import the [ffxiv_custom_repo.json](https://raw.githubusercontent.com/Zi-SH/Dalamud-Repo/main/ffxiv_custom_repo.json) by pasting the following link into the Dalamud Settings:
+
+`https://raw.githubusercontent.com/Zi-SH/Dalamud-Repo/main/ffxiv_custom_repo.json`
+
+## Suggest a Repository/Plugin
+If you know of a repo that is missing from the list, please open a PR to add the repo to repo_urls.json
