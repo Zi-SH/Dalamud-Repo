@@ -5,7 +5,7 @@
 
 A collection of third-party Dalamud Repositories, merged into a single file for easy browsing.
 
-This list is automatically updated:
+This list is [automatically updated](https://github.com/Zi-SH/Dalamud-Repo-Updater):
 - Every 30 minutes `ffxiv_custom_repo.json` will refresh changes to individual plugins
 - Every 10 minutes outdated plugins will be checked for updates
 - Every day invalid (broken) plugin downloads will be rechecked
