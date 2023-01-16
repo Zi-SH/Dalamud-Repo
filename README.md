@@ -5,7 +5,10 @@
 
 A collection of third-party Dalamud Repositories, merged into a single file for easy browsing.
 
-The list will check every 30 minutes for updates, and automatically push any updates found.
+This list is automatically updated:
+- Every 30 minutes `ffxiv_custom_repo.json` will refresh changes to individual plugins
+- Every 10 minutes outdated plugins will be checked for updates
+- Every day invalid (broken) plugin downloads will be rechecked
 
 Special thanks to Akurosia, who originally pioneered this [idea](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection).
 
