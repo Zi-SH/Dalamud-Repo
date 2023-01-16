@@ -1,1 +1,14 @@
-[]
+[
+    "https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json",
+    "https://raw.githubusercontent.com/Eclipsum/Astro/main/Astro/Astro.json",
+    "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/Nik-Potokar/Personal/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
+    "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
+    "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json",
+    "https://raw.githubusercontent.com/chirpcodes/OnlyFandaniels/main/repo.json",
+    "https://raw.githubusercontent.com/katawajojo/DalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/neonmaus/RoleplayersToolbox/main/repo.json",
+    "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json"
+]
