@@ -632,29 +632,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4",
-        "Author": "Frogworks Interactive",
-        "Description": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
-        "InternalName": "OofPlugin",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1669108520,
-        "Name": "OOF!",
-        "Punchline": "i love roblox!!!",
-        "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
-        "Tags": [
-            "OOF",
-            "plugin",
-            "play",
-            "sound"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.1.2",
         "Author": "GiR-Zippo, Meowchestra",
         "CategoryTags": [
@@ -837,22 +814,6 @@
             "furnishing",
             "LeonBlade"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.13.1.0",
-        "Author": "ascclemens",
-        "DalamudApiLevel": 5,
-        "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin. It\nsupports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Screenshot mode (obfuscate names)\n (https://plugins.annaclemens.io/)",
-        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
-        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
-        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/main/plugins/ChatTwo/latest.zip",
-        "InternalName": "ChatTwo",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Chat 2 [Aku API 5]",
-        "Punchline": "Electric Boogaloo - \ufffd\ufffd A whole new chat, a new fantastic chat window \ufffd\ufffd",
-        "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo"
     },
     {
         "ApplicableVersion": "any",
@@ -1228,39 +1189,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.3",
-        "Author": "Meisterlala",
-        "CategoryTags": [
-            "UI"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nTwitter, nekos.best, Nekos.life, Catboys, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
-        "DownloadCount": 2,
-        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
-        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
-        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image1.png",
-            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image2.png"
-        ],
-        "InternalName": "Neko",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1673721064,
-        "Name": "Neko Fans",
-        "Punchline": "Frustrated in a dungeon? Look at a cute cat girl!",
-        "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-        "Tags": [
-            "anime",
-            "neko",
-            "waifu",
-            "miqote",
-            "image"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.3",
         "Author": "Meisterlala",
         "CategoryTags": [
@@ -1549,28 +1477,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.2.0",
-        "Author": "daemitus",
-        "DalamudApiLevel": 6,
-        "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
-        ],
-        "InternalName": "WondrousTailsSolver",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "ezWondrousTails",
-        "Punchline": "Adds row probabilities to the Wondrous Tails display.",
-        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.2.1",
         "Author": "daemitus",
         "DalamudApiLevel": 6,
@@ -1647,25 +1553,6 @@
         "Name": "Customize+",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.0",
-        "Author": "XIV Tools",
-        "DalamudApiLevel": 7,
-        "Description": "Enter and leave fullscreen quickly with Alt+Enter",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png",
-        "InternalName": "FullscreenToggle",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Fullscreen Toggle",
-        "Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
-        "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle"
     },
     {
         "ApplicableVersion": "any",
@@ -1909,26 +1796,6 @@
             "Settings",
             "Utility"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.2",
-        "Author": "Eternita",
-        "DalamudApiLevel": 6,
-        "Description": "Features:\n- Opes a direct message window when you message someone or they message you\n- Each window contains your DM chat with certain person\n- Open and cycle through recent chats with a hotkey\n- Execute emote commands on a player from their DM window without needing to manually target them\n- Automatically record your chat log in an easy to read text file\n- Fully customizable styles",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/NightmareXIV/XIVInstantMessenger/releases/latest/download/Messenger.zip",
-        "DownloadLinkTesting": "https://github.com/NightmareXIV/XIVInstantMessenger/releases/latest/download/Messenger.zip",
-        "DownloadLinkUpdate": "https://github.com/NightmareXIV/XIVInstantMessenger/releases/latest/download/Messenger.zip",
-        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/XIVInstantMessenger/master/Messenger/images/icon.png",
-        "ImageUrls": [],
-        "InternalName": "Messenger",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "0",
-        "Name": "XIV Instant Messenger",
-        "Punchline": "[beta] A direct message manager made in fashion of WoW Instant Messenger.",
-        "RepoUrl": "https://github.com/NightmareXIV/XIVInstantMessenger"
     },
     {
         "ApplicableVersion": "any",
@@ -2546,28 +2413,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.2.0",
-        "Author": "UrsaBear",
-        "DalamudApiLevel": 6,
-        "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UrsaBear/WondrousTailsSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UrsaBear/WondrousTailsSolver/master/res/image1.png"
-        ],
-        "InternalName": "WondrousTailsSolver",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "ezWondrousTails",
-        "Punchline": "Adds row probabilities to the Wondrous Tails display.",
-        "RepoUrl": "https://github.com/UrsaBear/WondrousTailsSolver"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.2.2.1",
         "Author": "UrsaBear",
         "DalamudApiLevel": 6,
@@ -2608,26 +2453,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.5",
-        "Author": "UrsaBear",
-        "DalamudApiLevel": 6,
-        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UrsaBear/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "IconUrl": "https://github.com/UrsaBear/SomethingNeedDoing/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "InternalName": "SomethingNeedDoing",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "Something Need Doing",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/UrsaBear/SomethingNeedDoing"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.1.3",
         "Author": "XIV Tools",
         "DalamudApiLevel": 8,
@@ -2644,68 +2469,6 @@
         "Name": "Customize+",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.0",
-        "Author": "XIV Tools",
-        "DalamudApiLevel": 7,
-        "Description": "Enter and leave fullscreen quickly with Alt+Enter",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png",
-        "InternalName": "FullscreenToggle",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Fullscreen Toggle",
-        "Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
-        "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.4",
-        "Author": "Zhyra",
-        "DalamudApiLevel": 8,
-        "Description": "A plugin to see partyverse.app events.",
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-        "InternalName": "PartyPlanner",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "PartyPlanner",
-        "Punchline": "See partyverse.app events ingame",
-        "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
-        "Tags": [
-            "party"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4",
-        "Author": "Zhyra",
-        "DalamudApiLevel": 8,
-        "Description": "Uploads marketboard data to market.xivhub.org and other configurable aggregators.",
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/MarketUploader/master/MarketUploader/images/icon.png",
-        "InternalName": "MarketUploader",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Market Uploader",
-        "Punchline": "Uploads market data to various aggregators.",
-        "RepoUrl": "https://github.com/ZhyraPlugins/MarketUploader",
-        "Tags": [
-            "market",
-            "uploader"
-        ]
     },
     {
         "ApplicableVersion": "any",
@@ -2779,27 +2542,6 @@
             "Overlay",
             "Indicator"
         ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.1",
-        "Author": "daemitus, a1hena",
-        "DalamudApiLevel": 8,
-        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/stable/SomethingNeedDoing/latest.zip",
-        "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "InternalName": "SomethingNeedDoing a1hena custom",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1673542121,
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Something Need Doing a1hena custom",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/a1hena/SomethingNeedDoing"
     },
     {
         "ApplicableVersion": "any",
@@ -2933,25 +2675,6 @@
             "plugin",
             "goats"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.2.3",
-        "Author": "Avaflow, updated by Ars Magna",
-        "DalamudApiLevel": 8,
-        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.\n\nBROKEN AGAIN IN 6.3, WILL CRASH YER GAME, INVESTIGATING A FIX",
-        "DownloadLinkInstall": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
-        "DownloadLinkTesting": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
-        "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
-        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
-        "InternalName": "OopsAllLalafellsSRE",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1761399999",
-        "LoadPriority": 0,
-        "Name": "Oops, All Lalafells! Super Rad Edition",
-        "Punchline": "That one funny plugin your friend told you about.",
-        "RepoUrl": "https://github.com/ars-magna/OopsAllLalafellsSRE"
     },
     {
         "AcceptsFeedback": true,
@@ -3137,28 +2860,6 @@
         "Name": "Something Need Doing",
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.2.0",
-        "Author": "daemitus",
-        "DalamudApiLevel": 6,
-        "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
-        ],
-        "InternalName": "WondrousTailsSolver",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "ezWondrousTails",
-        "Punchline": "Adds row probabilities to the Wondrous Tails display.",
-        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver"
     },
     {
         "ApplicableVersion": "any",
@@ -4927,30 +4628,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.2",
-        "Author": "Daniel Guiomarino",
-        "DalamudApiLevel": 6,
-        "Description": "Adds a command to be able to search for specific loots and its location.\n (https://github.com/danielbrenom/MonsterLootHunter/raw/main/repo.json)",
-        "DownloadCount": 1,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/danielbrenom/MonsterLootHunter/main/MonsterLootHunter.zip",
-        "IconUrl": null,
-        "ImageUrls": null,
-        "InternalName": "MonsterLootHunter",
-        "IsHide": "False",
-        "IsTestingExclusive": "True",
-        "Name": "MonsterLootHunter [T] [Aku API 6]",
-        "Punchline": "A monster loot finder plugin.",
-        "RepoUrl": "https://github.com/danielbrenom/MonsterLootHunter",
-        "Tags": [
-            "Monster",
-            "Loot",
-            "Finder"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.2.3",
         "Author": "Kaciexx",
         "DalamudApiLevel": 6,
@@ -5082,25 +4759,6 @@
             "party",
             "bard"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.1",
-        "Author": "BitsOfAByte",
-        "DalamudApiLevel": 6,
-        "Description": "Provides instant friend login/logout notifications with other friends using the plugin. Provides customisable messages & notification display settings and allows for private notification circles using a friendship code.\n (https://raw.githubusercontent.com/BitsOfAByte/GoodFriend/main/repo.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/BitsOfAByte/GoodFriend/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/BitsOfAByte/GoodFriend/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/BitsOfAByte/GoodFriend/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/BitsOfAByte/GoodFriend/main/.assets/icon.png",
-        "InternalName": "GoodFriend",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "0",
-        "Name": "GoodFriend [Aku API 6]",
-        "Punchline": "Friend login & logout notifications (both sides must use GoodFriend)",
-        "RepoUrl": "https://github.com/BitsOfAByte/GoodFriend"
     },
     {
         "ApplicableVersion": "any",
@@ -5680,25 +5338,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.0",
-        "Author": "Fr4nsson",
-        "DalamudApiLevel": 6,
-        "Description": "Allows you to toggle the visibility of the padlock that is next to hotbar one.\n\nUse /padlock to toggle visibility.\nUse //padlock to open settings.\n (https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Fr4nsson/MyDalamudPlugins/raw/main/plugins/HidePadlock/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Fr4nsson/MyDalamudPlugins/raw/main/plugins/HidePadlock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Fr4nsson/MyDalamudPlugins/raw/main/plugins/plugins/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/plugins/HidePadlock/images/icon.png",
-        "InternalName": "HidePadlock",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Hide Padlock [Aku API 6]",
-        "Punchline": "Hides the padlock.",
-        "RepoUrl": "https://github.com/Fr4nsson/MyDalamudPlugins/tree/main/src/HidePadlock"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.2",
         "Author": "Frogworks Interactive",
         "DalamudApiLevel": 6,
@@ -5863,54 +5502,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.1.12",
-        "Author": "Koenari",
-        "DalamudApiLevel": 6,
-        "Description": "A collection of useful tools for RaidGroups, including loot management\n (https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
-        "InternalName": "HimbeertoniRaidTool",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Himbeertoni Raid Tool [Aku API 6]",
-        "Punchline": "All you need for Raiding",
-        "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
-        "Tags": [
-            "Raid",
-            "Loot",
-            "Equipment"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1.0",
-        "Author": "Kouzukii",
-        "CategoryTags": [
-            "inventory",
-            "utility"
-        ],
-        "DalamudApiLevel": 6,
-        "Description": "See item marketboard prices on hover!\n (https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
-        "InternalName": "PriceInsight",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "Price Insight [Aku API 6]",
-        "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
-        "Tags": [
-            "marketboard",
-            "items",
-            "price"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.8",
         "Author": "LeonBlade",
         "DalamudApiLevel": 6,
@@ -6053,23 +5644,6 @@
         "Tags": [
             "customization"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.8194.20890",
-        "Author": "VariableVixen",
-        "DalamudApiLevel": 6,
-        "Description": "If you have a hard time telling whether you're in the right spot for positional attacks, this plugin can draw guidelines on your screen to help you tell where you need to be.\n (https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/PositionalGuide/latest.zip",
-        "InternalName": "PositionalGuide",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1659843859",
-        "Name": "Positional Assistant [Aku API 6]",
-        "RepoUrl": "https://github.com/PrincessRTFM/PositionalAssistant"
     },
     {
         "ApplicableVersion": "any",
@@ -6342,27 +5916,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.1",
-        "Author": "Zhyra",
-        "DalamudApiLevel": 6,
-        "Description": "A plugin to see partyverse.app events.\n (https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json)",
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-        "InternalName": "PartyPlanner",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "PartyPlanner [Aku API 6]",
-        "Punchline": "See partyverse.app events ingame",
-        "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
-        "Tags": [
-            "party"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.7.8140.18602",
         "Author": "digital pet",
         "DalamudApiLevel": 6,
@@ -6564,24 +6117,6 @@
         "Name": "Oops, All Lalafells! [Aku API 6]",
         "Punchline": "That one funny plugin your friend told you about.",
         "RepoUrl": "https://github.com/buengese/oops-all-lalafells/"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.4",
-        "Author": "Caraxi, buengese",
-        "DalamudApiLevel": 6,
-        "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.\n (https://raw.githubusercontent.com/buengese/DalamudPlugins/master/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/master/plugins/ItemSearchPlugin/latest.zip",
-        "InternalName": "ItemSearchPlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "Item Search (custom) [Aku API 6]",
-        "Punchline": "Search and link items, even if you don't have them.",
-        "RepoUrl": "https://github.com/buengese/ItemSearchPlugin"
     },
     {
         "ApplicableVersion": "any",
@@ -7310,23 +6845,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "6.0.0.1",
-        "Author": "xPumaa",
-        "DalamudApiLevel": 6,
-        "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)\n (https://raw.githubusercontent.com/xPumaa/DalamudPlugins/api5/pluginmaster.json)",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-        "InternalName": "JobIcons",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "Name": "JobIcons [Aku API 6]",
-        "RepoUrl": "https://github.com/xPumaa/JobIcons"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.2",
         "Author": "xPumaa",
         "DalamudApiLevel": 6,
@@ -7849,28 +7367,6 @@
             "money",
             "plugin",
             "tracker"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.0",
-        "Author": "zhudotexe",
-        "DalamudApiLevel": 7,
-        "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
-        "InternalName": "autoSweep",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1661355260,
-        "LoadPriority": 0,
-        "Name": "PaissaHouse",
-        "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
-        "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
-        "Tags": [
-            "housing"
         ]
     },
     {
