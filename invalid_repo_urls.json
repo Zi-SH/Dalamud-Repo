@@ -1,1 +1,11 @@
-[]
+[
+    "https://raw.githubusercontent.com/Kaedemi/MakePlacePlugin/master/MakePlacePlugin.json",
+    "https://raw.githubusercontent.com/Matthew-Rennie/BisBunToolkit-distrib/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/RikaKagurasaka/MyDalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/ik2h/DalamudPluginRepo-Origin/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/postcards114/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json",
+    "https://raw.githubusercontent.com/tssailzz8/MyCustomDalamudPluginRepoCollection/main/ffxiv_custom_repo.json",
+    "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/ykoneee/CraftingList/main/CraftingList/repo.json",
+    "https://raw.githubusercontent.com/yschuurmans/FFXIVMoneyTracker/master/repo.json"
+]
